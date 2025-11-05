@@ -1,4 +1,4 @@
-#banco de dados local do estoque 
+
 dicionario = {
     1: {"nome": "Arroz integral 1kg", "quantidade": 22, "valor": 24.90},
     2: {"nome": "doce de leite 500g", "quantidade": 15, "valor": 8.50},
@@ -78,6 +78,7 @@ def login():
 #inicializador do programa, executa todo o script
 def main():
     login()
+
 
 
 main()
