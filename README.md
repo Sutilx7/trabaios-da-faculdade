@@ -44,10 +44,10 @@ python inventario_de_supermercado.py
 
 Ótima ideia! Um bom arquivo README.md é essencial para apresentar seu projeto. Com base no seu código Python (que parece ser um sistema simples de estoque/PDV para uma quitanda, com login e funções de visualização/adição de produtos), aqui está um rascunho em Markdown que você pode usar:
 
-🍇 Sistema de Gestão de Quitanda em Python
+Sistema de Gestão de Quitanda em Python
 Este é um projeto simples, desenvolvido em Python, para simular o Gerenciamento de Estoque e Ponto de Venda (PDV) de uma pequena quitanda ou minimercado. Ele utiliza estruturas de dados básicas (Dicionário) para armazenar as informações dos produtos de forma local.
 
-💡 Motivação
+Motivação
 O projeto foi criado com o objetivo de aplicar e praticar conceitos fundamentais da linguagem Python, como:
 
 Estruturas de dados (Dicionários).
@@ -58,7 +58,7 @@ Controle de fluxo (if/else, for).
 
 Manipulação de entrada/saída de dados (input() e print()).
 
-⚙️ Funcionalidades
+Funcionalidades
 O sistema oferece as seguintes operações (com base nas funções implementadas no código):
 
 Login de Usuário: Acesso restrito para funcionários/administradores.
@@ -69,12 +69,12 @@ Adicionar Produto: Permite cadastrar um novo item no estoque.
 
 Funções Futuras: Seria fácil expandir para editar produtos, realizar vendas (dar baixa no estoque) e gerar relatórios.
 
-🛠️ Tecnologias Utilizadas
+Tecnologias Utilizadas
 Linguagem: Python
 
 Estrutura de Dados Principal: Dicionário (como um "banco de dados" local simples)
 
-🚀 Como Executar o Projeto
+Como Executar o Projeto
 Para rodar o projeto em sua máquina, siga estes passos:
 
 Clone o Repositório (se estiver no Git) ou baixe o arquivo inventario_de_supermercado.py.
